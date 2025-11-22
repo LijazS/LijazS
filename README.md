@@ -44,14 +44,6 @@
 
 ---
 
-## 🎓 Highlights
-
-- IBM SkillsBuild Data Analytics Internship – built analytical dashboards and ML workflows aligned with UN SDGs.  
-- Embedded AI Workshop (IIT Palakkad) – optimized YOLO pipelines on Jetson/edge devices end‑to‑end.  
-- Multiple production‑style deployments on AWS EC2 with Docker and CI/CD basics.
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
