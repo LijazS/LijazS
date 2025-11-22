@@ -55,6 +55,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LijazS&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LijazS&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="languages graph" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=LijazS
+  &show_icons=true
+  &include_all_commits=true
+  &show=prs,issues,contribs
+  &rank_icon=github
+  &theme=radical
+  &hide_border=true
+  &bg_color=0d1117
+  &title_color=58a6ff
+  &icon_color=58a6ff"
+/>
 </div>
