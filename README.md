@@ -4,6 +4,11 @@
   Full‑stack & AI developer building production‑ready web apps and intelligent systems with React, Flask, FastAPI, and modern AI tooling.
 </p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhwOHZ3eDhuN2JjYnk0aHowMWg5b2xwOHAyeHY5ODk0bjlsZDJ1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sC0Otv1hUm0BtrqNGp/giphy.gif" width="100"/>
+</div>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lijaz-salim/">
     <img
