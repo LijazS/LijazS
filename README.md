@@ -22,7 +22,7 @@
       alt="Email Badge"
     />
   </a>
-  <a href="https://github.com/USER/REPO/stargazers">
+  <a href="https://github.com/Lijazs/REPO">
     <img src="https://img.shields.io/github/stars/USER/REPO?style=for-the-badge&logo=github" />
   </a>
 </div>
