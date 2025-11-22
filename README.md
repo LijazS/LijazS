@@ -19,8 +19,8 @@
 | --- | --- | --- |
 | 🏥 **[HealthPlus – Automated Healthcare Platform](https://github.com/LijazS/HealthPlus)** | Secure healthcare platform for doctors and patients to manage appointments, prescriptions, lab results, and follow‑ups with role‑based access. | `Flask` · `React` · `MongoDB` · `JWT` · `Docker` · `AWS EC2` |
 | 💸 **[FinAgent – AI‑Powered Finance Platform](https://github.com/LijazS/FinAgent)** | Full‑stack financial assistant that replaces static forms with conversational AI, using agents and RAG to track expenses and give real‑time budget insights. | `React` · `FastAPI` · `LangGraph` · `LLMs` · `RAG` · `Vector DB` · `Docker` |
-| 🚗 **[RideConnect – Ride Sharing Web App](https://github.com/LijazS/RideConnect)** | Ride‑sharing platform with route matching, real‑time location, and trip management built on classic web tech and Google Maps API. | `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Google Maps API` |
-| 🌙 **Advanced Nighttime Driver Support System** | Embedded driver‑assistance system with real‑time headlight detection, auto beam control, GPS‑aware traffic light logic, and accident detection. | `Python` · `Raspberry Pi` · `OpenCV` · `IoT` |
+| 🚗 **[RideConnect – Ride Sharing Web App]([https://github.com/LijazS/RideConnect](https://github.com/LijazS/Projects/tree/main/Ride%20sharing%20website))** | Ride‑sharing platform with route matching, real‑time location, and trip management built on classic web tech and Google Maps API. | `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Google Maps API` |
+| 🌙 **[Advanced Nighttime Driver Support System](https://github.com/LijazS/ADAS)** | Embedded driver‑assistance system with real‑time headlight detection, auto beam control, GPS‑aware traffic light logic, and accident detection. | `Python` · `Raspberry Pi` · `OpenCV` · `IoT` |
 | 📈 **Data Analytics (IBM SkillsBuild)** | Team analytics project using Python, TensorFlow, and Power BI to deliver SDG‑aligned insights from real‑world datasets. | `Python` · `Pandas` · `TensorFlow` · `Power BI` |
 
 
