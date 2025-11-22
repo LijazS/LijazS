@@ -28,7 +28,7 @@
   <a href="https://github.com/LijazS?tab=repositories">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
   </a>
-  </div>d
+  </div>
 
 ---
 
