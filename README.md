@@ -23,7 +23,7 @@
     />
   </a>
   <a href="https://github.com/LijazS?tab=repositories">
-    <img src="https://img.shields.io/github/stars/LijazS/LijazS?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
   </a>
 </div>
 
