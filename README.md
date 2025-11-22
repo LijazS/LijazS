@@ -4,17 +4,21 @@
   Full‑stack & AI developer building production‑ready web apps and intelligent systems with React, Flask, FastAPI, and modern AI tooling.
 </p>
 
-<div id="badges">
-  <a href="your-linkedin-URL](https://www.linkedin.com/in/lijaz-salim/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/lijaz-salim/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn Badge"
+    />
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:lijazsalim@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Badge"
+    />
   </a>
 </div>
+
 
 ---
 
