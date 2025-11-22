@@ -1,44 +1,59 @@
-<!-- Header -->
 <h1 align="center">Hi, I'm Lijaz 👋</h1>
 
 <p align="center">
-  Full‑stack & AI developer building real‑world projects with Python, Flask, React, and Computer Vision.
+  Full‑stack & AI developer building production‑ready web apps and intelligent systems with React, Flask, FastAPI, and modern AI tooling.
 </p>
 
 <p align="center">
-  <a href="https://github.com/LijazS?tab=repositories">View all projects</a>
+  <a href="mailto:lijazsalim@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com">LinkedIn</a> ·
+  <a href="https://github.com/LijazS?tab=repositories">All Projects</a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
+
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
-| 🚗 **ADAS – Edge Driver Assist** | Real‑time driver safety system that uses YOLO on Jetson Nano for drowsiness and lane‑departure detection. | `Python` · `YOLO` · `OpenCV` · `Jetson Nano` |
-| 📊 **SaaS Dashboard** | Responsive analytics dashboard UI for SaaS products with clean data visualizations. | `React` · `Tailwind CSS` · `JavaScript` |
-| 🏥 **Flask Hospital Manager** | Full‑stack hospital management system for patients, appointments, and staff workflows. | `Flask` · `SQLAlchemy` · `Jinja2` |
-| 💰 **FinManager** | Personal finance tracker to log and visualize expenses and income. | `Python` · `Flask` · `Pandas` |
-| 🚘 **Driving Test Automation** | Computer‑vision based automation for driving license test/track evaluation. | `Python` · `OpenCV` |
+| 🏥 **[HealthPlus – Automated Healthcare Platform](https://github.com/LijazS/HealthPlus)** | Secure healthcare platform for doctors and patients to manage appointments, prescriptions, lab results, and follow‑ups with role‑based access. | `Flask` · `React` · `MongoDB` · `JWT` · `Docker` · `AWS EC2` |
+| 💸 **[FinAgent – AI‑Powered Finance Platform](https://github.com/LijazS/FinAgent)** | Full‑stack financial assistant that replaces static forms with conversational AI, using agents and RAG to track expenses and give real‑time budget insights. | `React` · `FastAPI` · `LangGraph` · `LLMs` · `RAG` · `Vector DB` · `Docker` |
+| 🚗 **[RideConnect – Ride Sharing Web App](https://github.com/LijazS/RideConnect)** | Ride‑sharing platform with route matching, real‑time location, and trip management built on classic web tech and Google Maps API. | `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Google Maps API` |
+| 🌙 **Advanced Nighttime Driver Support System** | Embedded driver‑assistance system with real‑time headlight detection, auto beam control, GPS‑aware traffic light logic, and accident detection. | `Python` · `Raspberry Pi` · `OpenCV` · `IoT` |
+| 📈 **Data Analytics (IBM SkillsBuild)** | Team analytics project using Python, TensorFlow, and Power BI to deliver SDG‑aligned insights from real‑world datasets. | `Python` · `Pandas` · `TensorFlow` · `Power BI` |
 
-> Tip: Update each row’s name/link to match your exact repo names and URLs (e.g. `https://github.com/LijazS/ADAS`, `.../Saas_Dashboard`, etc.).
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Web & APIs**  
-`Python` · `Flask` · `FastAPI` · `JavaScript` · `React` · `HTML` · `CSS`
+`Python` · `JavaScript` · `React` · `Vite` · `Flask` · `FastAPI` · `REST APIs` · `HTML` · `CSS` · `Tailwind CSS`
 
-**Data & AI**  
-`Pandas` · `NumPy` · `TensorFlow` · `YOLO` · `OpenCV`
+**Backend & Data**  
+`MongoDB` · `MySQL` · `Firebase` · `SQL` · `Docker` · `AWS EC2`
 
-**DevOps & Tools**  
-`Git` · `GitHub` · `Docker` · `Linux` · `VS Code`
+**AI & Machine Learning**  
+`RAG` · `LLM Integration` · `LangGraph` · `LangChain` · `Prompt Engineering` · `AI Agents` · `TensorFlow` · `YOLO` · `OpenCV`
+
+**Data & Analytics**  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Power BI` · `Tableau`
+
+**Other**  
+`Git` · `GitHub` · `Linux` · `C++` · `Java` · `PHP`
 
 ---
 
-### 📈 GitHub Stats
+## 🎓 Highlights
+
+- IBM SkillsBuild Data Analytics Internship – built analytical dashboards and ML workflows aligned with UN SDGs.  
+- Embedded AI Workshop (IIT Palakkad) – optimized YOLO pipelines on Jetson/edge devices end‑to‑end.  
+- Multiple production‑style deployments on AWS EC2 with Docker and CI/CD basics.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LijazS&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150" alt="stats graph" />
