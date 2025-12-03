@@ -51,7 +51,7 @@
 `Python` · `JavaScript` · `React` · `Vite` · `Flask` · `FastAPI` · `REST APIs` · `HTML` · `CSS` · `Tailwind CSS`
 
 **Backend & Data**  
-`MongoDB` · `MySQL` · `Firebase` · `SQL` · `Docker` · `AWS EC2`
+`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase` · `SQL` · `Docker` · `AWS EC2`
 
 **AI & Machine Learning**  
 `RAG` · `LLM Integration` · `LangGraph` · `LangChain` · `Prompt Engineering` · `AI Agents` · `TensorFlow` · `YOLO` · `OpenCV`
